@@ -13,7 +13,7 @@
 		"icu4x": "file:../../ffi/npm"
 	},
 	"devDependencies": {
-		"bootstrap": "^5.3.3",
+		"bootstrap": "^5.3.8",
 		"css-loader": "^7.1.2",
 		"mini-css-extract-plugin": "^2.9.0",
 		"sass": "^1.77.8",
